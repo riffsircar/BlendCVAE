@@ -1,0 +1,16 @@
+----------------
+--PP------------
+--P-PPP---------
+PP-XXX-PPPPPPPPP
+SS-----SSSSSSSSS
+-------SSSSSSSSS
+-------SSSSSSSSS
+-------SSSSSSSSS
+-------S--------
+-------S--------
+--------?ooooooo
+--------??SSSSSS
+-XX-------------
+XXXXXX----------
+XXX------------E
+XX-----XXXXXXXXX

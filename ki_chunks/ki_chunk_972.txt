@@ -1,0 +1,16 @@
+##---P--------##
+##----P-------##
+#TTTT-P-H-----##
+#MMMMMPMMMMMMMMM
+-------P--------
+----H--P-----H--
+MMMMMMMPMMMMMMMM
+------P---------
+------P---------
+-----TP---------
+-------P--------
+---H---P-H------
+MMMMMMMPMMMMMMM#
+--------P-------
+--H-----P--H----
+MMMMMMMMPMMMMMMM

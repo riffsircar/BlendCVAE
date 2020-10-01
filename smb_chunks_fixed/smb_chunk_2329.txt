@@ -1,0 +1,16 @@
+----------------
+----------------
+----------------
+----------------
+----------------
+--------------P-
+------------PP-P
+-----------PXX--
+-PP-------PXXX--
+PX-P-----EXXXX--
+XX--P---PXXXXX--
+XX---P-PXXXXXX--
+XX----PXXXXXXX--
+XX----XXXXXXXX--
+XX---XXXXXXXXX--
+XXXXXXXXXXXXXXXX
